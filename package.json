@@ -1,0 +1,23 @@
+{
+  "name": "first",
+  "version": "0.0.1",
+  "description": "write a game",
+  "main": "main.js",
+  "dependencies": {
+    "electron": "^5.0.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rimitatla/electron.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rimitatla/electron/issues"
+  },
+  "homepage": "https://github.com/rimitatla/electron#readme"
+}
